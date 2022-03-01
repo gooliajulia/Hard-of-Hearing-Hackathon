@@ -4,7 +4,7 @@
 
 <strong>Weid</strong> is a mobile application made to accommodate the hard of hearing community while traveling by providing an alternative form of communication to audio announcements via visual and sensory notifications. 
 
-After a handful of peers separately voiced frustration in the difficulties of navigating airports as hard of hearing individuals due to the large portion of loud speaker announcements.
+After a handful of peers separately voiced frustration in the difficulties of navigating airports as hard of hearing individuals due to the large portion of loud speaker announcements, an idea was sparked to solve this problem with an app.
 
 In addition to airports, many other transportation environments make important announcements over loudspeakers, creating a stressful challenge for hard of hearing individuals while traveling, and putting them at risk of missing out on important information.
 
@@ -17,7 +17,7 @@ By doing so, <strong>Weid</strong> allows user’s to enjoy comfort, confidence,
 Weid offers 4 key functionalities for its users:
 - Create an account and user profile with customizable app and notification settings
 - Search and discover 'Places' (Locations + Services Weid connects with to offer notification services) 
-- Subsribe to receive important information from saved 'Places' in a feed format on User's home screen
+- Subscribe to receive important information from saved 'Places' in a feed format on User's home screen
 - Add 'Trips' to receive timely and important information about a Trip like flight delays and boarding announcements. 
 
 
