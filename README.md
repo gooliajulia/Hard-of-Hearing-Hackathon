@@ -111,10 +111,12 @@ In order to build the app we used:
 ## Go-to-market and challenges
 
 Phase 1: 
+
 The first business goal is to perform a feasibility study with the US market, since a high number of population has smartphone and internet connection. An initial investment will be needed to develop the MVP. After the development of the app, the focus will be set on getting users through marketing campaigns. These will be financed by partnerships with transportation companies such as airports and train stations.
 
 Phase 2:
-The results from phase 1 will be used as a blueprint for the second phase, which as the focus on bringing the product to Europe. Transportation companies and other organizations in Europe will find it attractive to partner up with Weid, since they need to comply with the upcoming Accessibility Concept Standard that will be adopted by 2025. Please refer to the "Regulations.pdf" for more information [Regulations](https://github.com/gooliajulia/Hard-of-Hearing-Hackathon/blob/main/Regulations.pdf)
+
+The results from phase 1 will be used as a blueprint for the second phase, which as the focus on bringing the product to Europe. Transportation companies and other organizations in Europe will find it attractive to partner up with Weid, since they need to comply with the upcoming Accessibility Concept Standard that will be adopted by 2025. Please refer to the "Regulations.pdf" for more information. [Regulations](https://github.com/gooliajulia/Hard-of-Hearing-Hackathon/blob/main/Regulations.pdf)
 
 By scaling to other countries the development team at Weid will have more user experience data that will help to refine the product to make it more accessible and functional for the users. As part of the expansion, Weid will analyze further use cases (MINDMAP) to implement in the product and with that roll-out future product versions. 
 
