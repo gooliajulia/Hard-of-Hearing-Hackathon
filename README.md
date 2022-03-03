@@ -116,7 +116,7 @@ The first business goal is to perform a feasibility study with the US market, si
 
 Phase 2:
 
-The results from phase 1 will be used as a blueprint for the second phase, which as the focus on bringing the product to Europe. Transportation companies and other organizations in Europe will find it attractive to partner up with Weid, since they need to comply with the upcoming Accessibility Concept Standard that will be adopted by 2025. Please refer to the "Regulations.pdf" for more information. [Regulations](https://github.com/gooliajulia/Hard-of-Hearing-Hackathon/blob/main/Regulations.pdf)
+The results from Phase 1 will be used as a blueprint for the second phase, which as the focus on bringing the product to Europe. Transportation companies and other organizations in Europe will find it attractive to partner up with Weid, since they need to comply with the upcoming Accessibility Concept Standard that will be adopted by 2025. Please refer to the "Regulations.pdf" for more information. [Regulations](https://github.com/gooliajulia/Hard-of-Hearing-Hackathon/blob/main/Regulations.pdf)
 
 By scaling to other countries the development team at Weid will have more user experience data that will help to refine the product to make it more accessible and functional for the users. As part of the expansion, Weid will analyze further use cases (MINDMAP) to implement in the product and with that roll-out future product versions. 
 
