@@ -1,7 +1,7 @@
 import './Logo.css';
 
-export default function Logo() {
+export default function Logo({extraClass}) {
   return (
-    <div className="logo">We!d</div>
+    <div className={`logo ${extraClass}`}>We!d</div>
   )
 }

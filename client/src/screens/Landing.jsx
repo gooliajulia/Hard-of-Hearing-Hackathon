@@ -13,12 +13,12 @@ export default function Landing() {
         setTimeout(() => {
             console.log("timeout")
             navigate('/sign-in')
-        }, 3000);
+        }, 1500);
     },[])
 
   return (
     <div className="landing">
-        <Logo />
+        <Logo extraClass="animate" />
     </div>
   )
 }
