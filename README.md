@@ -92,7 +92,7 @@ src/
 
 In order to build the app we used:
 
-|    Back-End    |  Front-End   | Planing & Mgmt. |
+|    Back-End    |  Front-End   | Planning & Mgmt. |
 | :------------: | :----------: | :-------------: |
 |    Nodemon     |     React    |      Slack      |
 |     BCrypt     |     SCSS     |  Google Drive   |
