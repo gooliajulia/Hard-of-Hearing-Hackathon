@@ -32,7 +32,7 @@ DEPLOYED LINK:
 - [Planning](#planning)
 - [Technologies Used](#technologies)
 - [Wireframes and Models](#wireframes)
-- [Go-to-market and challenges](#go-to-market)
+- [Go-to-market](#go-to-market)
 - [Our Team](#team)
 
 ## Planning
