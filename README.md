@@ -32,7 +32,7 @@ DEPLOYED LINK:
 - [Planning](#planning)
 - [Technologies Used](#technologies)
 - [Wireframes and Models](#wireframes)
-- [Business plan](#business)
+- [Go-to-market and Challenges](#go-to-market)
 - [Our Team](#team)
 
 ## Planning
@@ -109,7 +109,7 @@ In order to build the app we used:
 ## Wireframes
 
 
-## Go-to-market and challenges 
+## Go-to-market and Challenges 
 
 Phase 1: 
 
