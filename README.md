@@ -12,7 +12,7 @@ We designed <strong>Weid</strong> to be a centralized tool that delivers alterna
 
 By doing so, <strong>Weid</strong> allows user’s to enjoy comfort, confidence, and social inclusion while traveling by mitigating confusion and exclusion in an industry that currently relies heavily on audio only announcements.
 
-Here some research about user needs and other solutions available in the market: PDF 
+Here some research about user needs and other solutions available in the market: [embed]https://dochub.com/julia-dwyer/gYzM7mBwDrzPPkbKqJ6EoO/user-research-pdf?gdiExists=143pupQ5QGc3s0yy61NYPNVIkyRNO5Leb[/embed]
 
 ## USE 
 Weid offers 4 key functionalities for its users:
