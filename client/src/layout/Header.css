@@ -1,0 +1,18 @@
+
+.header {
+    position: sticky;
+    top: 0;
+    height: 85px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.973), 95%, rgba(255, 255, 255, 0.11));
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 15px;
+}
+
+.thumbnail-container img {
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+    border-radius: 50px;
+}

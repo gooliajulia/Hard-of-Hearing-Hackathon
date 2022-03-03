@@ -1,0 +1,15 @@
+.trips-container {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    overflow: scroll;
+    width: 335px;
+    z-index: 2;
+}
+
+.trip img {
+    width: 220px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 25px;
+}

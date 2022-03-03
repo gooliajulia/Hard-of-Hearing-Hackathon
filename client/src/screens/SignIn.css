@@ -1,0 +1,57 @@
+.sign-in {
+    background-color: white;
+    height: 667px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+}
+
+form {
+    padding: 25px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+input {
+    margin: 5px 0;
+    width: 250px;
+    height: 35px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    padding-left: 12px;
+    font-size: 15px;
+}
+
+a {
+    font-size: 14px;
+    color: rgb(26, 82, 156);
+    font-style: italic;
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+button {
+    margin: 20px;
+    width: 100px;
+    align-self: center;
+    height: 40px;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color:rgb(86, 89, 92);
+    color: white;
+}
+

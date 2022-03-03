@@ -1,0 +1,38 @@
+
+.notifications {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.notifications h2 {
+    margin: 0;
+}
+
+.notification {
+    background-color: rgba(233, 233, 233, 0.699);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: min-content;
+}
+
+.head h4 {
+    margin: 0;
+    color: rgb(151, 26, 26);
+}
+
+.head h5 {
+    margin: 0;
+    color: gray;
+}
+
+.notification p {
+    margin: 10px 0 0 0;
+    font-size: 15px;
+}
