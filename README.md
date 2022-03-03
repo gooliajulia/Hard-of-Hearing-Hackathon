@@ -118,7 +118,7 @@ Phase 2:
 
 The results from Phase 1 will be used as a blueprint for the second phase, which as the focus on bringing the product to Europe. Transportation companies and other organizations in Europe will find it attractive to partner up with Weid, since they need to comply with the upcoming Accessibility Concept Standard that will be adopted by 2025. Please refer to the "Regulations.pdf" for more information. [Regulations](https://github.com/gooliajulia/Hard-of-Hearing-Hackathon/blob/main/Regulations.pdf)
 
-By scaling to other countries the development team at Weid will have more user experience data that will help to refine the product to make it more accessible and functional for the users. As part of the expansion, Weid will analyze further use cases (MINDMAP) to implement in the product and with that roll-out future product versions. 
+By scaling to other countries the development team at Weid will have more user experience data that will help to refine the product to make it more accessible and functional for the users. As part of the expansion, Weid will analyze further use cases (see Figure-Mindmap) to implement in the product and with that roll-out future product versions. 
 
 Finally Weid will perform user research to target other audiences as frequent travelers which could benefit from the app. 
 
@@ -129,6 +129,8 @@ Challenges:
 - The design of the app may not be intuitive for the user, but thanks to the user data retrieved by the sign in functionality Weid could track user interaction and adapt the app to meet the needs. 
 - Some partners may not facilitate the required feeds to utilize it in the app. Weid would need to partner up with the companies and convince them of building their infrastructure. With the arising focus on social inclusion through upcoming standards and Weid could convince companies to partner up. 
 
+![F](https://github.com/gooliajulia/Hard-of-Hearing-Hackathon/blob/main/mindmap.JPG)
+Figure-Mindmap
 
 ## Team
 
