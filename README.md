@@ -23,7 +23,7 @@ Weid offers 4 key functionalities for its users:
 - Add 'Trips' to receive timely and important information about a Trip like flight delays and boarding announcements. 
 
 
-DEPLOYED LINK:
+DEPLOYED SITE: coming soon!
 
 
 ## Table of Contents
