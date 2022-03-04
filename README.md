@@ -108,7 +108,7 @@ In order to build the app we used:
 ## Wireframes
 
 
-## Go-to-market and Challenges 
+## Go-to-market 
 
 Phase 1: 
 
