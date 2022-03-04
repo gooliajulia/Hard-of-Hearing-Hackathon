@@ -43,18 +43,9 @@ To develop our idea we used the following...
 - National Deaf Center website and resources [NDC](https://www.nationaldeafcenter.org/)
 - Contacted a number of organizations associated with the hard of hearing community
 
-2. Research
+2. Research (see [User Research](https://github.com/gooliajulia/Hard-of-Hearing-Hackathon/blob/main/User%20Research.pdf) )
 
-3. Design & Planning
-
-
-
-- DESCRIPTION
-  ![NAME OF IMAGE](/IMG.png)
-- DESCRIPTION
-  ![NAME OF IMAGE](/IMG.png)
-- DESCRIPTION
-  ![NAME OF IMAGE](/IMG.png)
+3. Design & Planning (see [Wireframes](#wireframes)
 
 
 
@@ -107,7 +98,7 @@ In order to build the app we used:
 
 ## Wireframes
 
-![Frame 3](https://user-images.githubusercontent.com/87200663/156691862-74724a2a-74de-422a-b154-c63ff4964c81.png)
+![Frame 3 (1)](https://user-images.githubusercontent.com/87200663/156692228-9e4e439e-fbcc-42f4-9f58-49ccaeba54c0.png)
 
 ![Frame 4](https://user-images.githubusercontent.com/87200663/156691881-380ca928-8915-4b26-af20-353e4c9fed8e.png)
 
