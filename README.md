@@ -107,7 +107,11 @@ In order to build the app we used:
 
 ## Wireframes
 
+![Frame 3](https://user-images.githubusercontent.com/87200663/156691862-74724a2a-74de-422a-b154-c63ff4964c81.png)
 
+![Frame 4](https://user-images.githubusercontent.com/87200663/156691881-380ca928-8915-4b26-af20-353e4c9fed8e.png)
+
+![Frame 5](https://user-images.githubusercontent.com/87200663/156691822-237189d6-5c27-411d-a246-056f15096e2d.png)
 ## Go-to-market 
 
 Phase 1: 
